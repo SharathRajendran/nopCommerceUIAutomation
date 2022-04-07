@@ -1,0 +1,8 @@
+Cypress
+
+{
+  "projectId": "sojgpm"
+}
+
+
+cypress run --record --key d0727bf0-5437-4fe8-94d6-2152aa2823a8
